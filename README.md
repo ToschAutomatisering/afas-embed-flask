@@ -16,7 +16,7 @@ It handles the secure token exchange required by AFAS to validate the embedded s
 
 *   Python 3.9+
 *   An AFAS Environment with an InSite portal.
-*   An **InSite Page** configured to embed this application.
+*   An **InSite Page** or **OutSite Page** configured to embed this application.
 
 ## Configuration
 
