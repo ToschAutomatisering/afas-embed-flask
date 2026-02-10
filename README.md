@@ -1,6 +1,6 @@
-# AFAS InSite Embed - Flask Authentication Wrapper
+# AFAS Embed - Flask
 
-This Flask application serves as a secure middleware for embedding custom web applications within [AFAS InSite](https://www.afas.nl/software/insite).
+This Flask application serves as a secure middleware for embedding custom web applications within [AFAS InSite](https://www.afas.nl/software/insite) or [AFAS OutSite](https://www.afas.nl/software/outsite).
 
 It handles the secure token exchange required by AFAS to validate the embedded session immediately upon loading.
 
