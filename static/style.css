@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.verification-box {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.status-pending { color: #666; font-style: italic; }
+.status-success { color: #28a745; font-weight: bold; }
+.status-error { color: #dc3545; font-weight: bold; }
